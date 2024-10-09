@@ -1,0 +1,34 @@
+vault: means save the data with security like encrypt the password.
+
+ansible vault encrypt filename
+
+--ask-vault-password
+
+ansible-playbook -i slaves.txt filename --ask-vault-password
+
+
+
+************************************************************************************
+
+ansible tasks:
+instance cretions
+git,php installation normal
+using loop method download git,php,
+vault
+copy files
+
+
+**********************************************************************************************
+
+
+
+Roles: means reuse the code.
+ansible galaxy command used to create the roles
+
+     ansible-galaxy init apache
+
+
+
+
+TAsks:
+1.project njos app in 90 days challenge.
